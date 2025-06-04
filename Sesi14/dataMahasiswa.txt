@@ -1,0 +1,10 @@
+
+NIM = 20240040008
+Nama = fathir a
+Alamat = hahahahahahaaa
+Kelas = TI24
+
+NIM = 20240040007
+Nama = galang h
+Alamat = jajajajajaa
+Kelas = TI23
